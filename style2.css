@@ -1,0 +1,398 @@
+.head{
+    font-size: 45px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    font-size: 25px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: -40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.clear1{
+    clear: both;
+}
+.background1{
+    background-image: url("image/tech2.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    text-decoration: none;
+}
+.background1 a{
+    text-decoration: none;
+}
+.background1  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background2{
+    background-image: url("image/Online_Learning.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+}
+.background2 a{
+    text-decoration: none;
+}
+.background2 p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background3{
+    background-image: url("image/renewable.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+}
+.background3 a{
+    text-decoration: none;
+}
+.background3  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background4{
+    background-image: url("image/Cloud-Kitchen.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background4 a{
+    text-decoration: none;
+}
+.background4 p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background5{
+    background-image: url("image/agriculture.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}  
+.background5 a{
+    text-decoration: none;
+}
+
+.background5  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background6{
+    background-image: url("image/mining.png");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background6 a{
+    text-decoration: none;
+}
+.background6 p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background7{
+    background-image: url("image/travelling.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background7 a{
+    text-decoration: none;
+}
+.background7  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background8{
+    background-image: url("image/furniture.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background8 a{
+    text-decoration: none;
+}
+.background8  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background9{
+    background-image: url("image/log.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background9 a{
+    text-decoration: none;
+}
+.background9  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background10{
+    background-image: url("image/petroleum.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background10 a{
+    text-decoration: none;
+}
+.background10  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background11{
+    background-image: url("image/medical.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background11 a{
+    text-decoration: none;
+}
+.background11  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background12{
+    background-image: url("image/cos.jpeg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background12 a{
+    text-decoration: none;
+}
+.background12  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background13{
+    background-image: url("image/hospatality.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background13 a{
+    text-decoration: none;
+}
+.background13  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background14{
+    background-image: url("image/realestate.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background14 a{
+    text-decoration: none;
+}
+.background14  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.background15{
+    background-image: url("image/financial.jpg");
+    width: 400px;
+    height: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: table;
+    float: left;
+    
+}
+.background15 a{
+    text-decoration: none;
+}
+.background15  p{
+    
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+    
+}
+.border{
+    border-bottom: solid;
+    border-width: thin;
+    border-color: black;
+    margin-top: 70px;
+}
+.clear2{
+    clear: both;
+}
+.img2{
+    margin-left: 120px;
+    margin-top: 50px;
+    display: table;
+    float:left
+}
+.img3{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: table;
+    float:left
+}
+.img4{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: table;
+    float:left
+}
+.img5{
+    margin-left: 120px;
+    margin-top: 50px;
+    display: table;
+    float:left
+}
+.border1{
+    border-bottom: solid;
+    border-width: thin;
+    border-color: black;
+    margin-top: 360px;
+}
